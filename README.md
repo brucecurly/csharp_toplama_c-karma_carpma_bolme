@@ -1,1 +1,0 @@
-# csharp_toplama_c-karma_carpma_bolme
